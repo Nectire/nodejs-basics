@@ -10,7 +10,9 @@
     "fs:list": "node ./src/fs/list",
     "fs:read": "node ./src/fs/read",
     "fs:rename": "node ./src/fs/rename",
-    "modules:esm": "node ./src/modules/esm"
+    "modules:esm": "node ./src/modules/esm",
+    "zip:compress": "node ./src/zip/compress",
+    "zip:decompress": "node ./src/zip/decompress"
   },
   "repository": {
     "type": "git",
