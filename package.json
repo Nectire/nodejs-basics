@@ -12,7 +12,12 @@
     "fs:rename": "node ./src/fs/rename",
     "modules:esm": "node ./src/modules/esm",
     "zip:compress": "node ./src/zip/compress",
-    "zip:decompress": "node ./src/zip/decompress"
+    "zip:decompress": "node ./src/zip/decompress",
+    "streams:read": "node ./src/streams/read",
+    "streams:transform": "node ./src/streams/transform",
+    "streams:write": "node ./src/streams/write",
+    "wt:main": "node ./src/wt/main",
+    "hash:calcHash": "node ./src/hash/calcHash"
   },
   "repository": {
     "type": "git",
