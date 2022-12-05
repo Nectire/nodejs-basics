@@ -17,7 +17,8 @@
     "streams:transform": "node ./src/streams/transform",
     "streams:write": "node ./src/streams/write",
     "wt:main": "node ./src/wt/main",
-    "hash:calcHash": "node ./src/hash/calcHash"
+    "hash:calcHash": "node ./src/hash/calcHash",
+    "cp:cp": "node ./src/cp/cp"
   },
   "repository": {
     "type": "git",
