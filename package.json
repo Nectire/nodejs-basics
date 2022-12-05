@@ -18,7 +18,9 @@
     "streams:write": "node ./src/streams/write",
     "wt:main": "node ./src/wt/main",
     "hash:calcHash": "node ./src/hash/calcHash",
-    "cp:cp": "node ./src/cp/cp"
+    "cp:cp": "node ./src/cp/cp",
+    "cli:args": "node ./src/cli/args --propName value --prop2Name value2",
+    "cli:env": "node ./src/cli/env"
   },
   "repository": {
     "type": "git",
